@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jjroman
+- 👀 I’m interested in .net and microservices
+- 🌱 I’m currently learning about software architecturing
+- 💞️ I’m looking to collaborate on .net projects
